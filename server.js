@@ -1,7 +1,7 @@
 const fetch = require("node-fetch");
 
 const SHOPIFY_STORE = "shop-globalstone.myshopify.com";
-const ACCESS_TOKEN = "<access_token>";
+
 const FORECASTING_API_URL = "https://forecastingapi.worldofstones.in/api/getFreeStock";
 const LOCATION_ID = "gid://shopify/Location/85832237378";
 
